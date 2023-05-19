@@ -1,0 +1,47 @@
+@media screen and (max-width: 1398px) {
+    .main-menu ul li {
+        padding: 10px 9px;
+    }
+    .logo img {
+        margin-top: 9px;
+    }
+    .header-btn {
+        margin-top: 20px;
+    }
+    .header-btn a {
+        font-size: 15px;
+    }
+    .header-area .text-center {
+        text-align: inherit !important;
+    }
+    
+}
+@media screen and (max-width: 1198px) {
+
+    .main-menu ul li a {
+        font-size: 12px;
+        padding: 17px 5px;
+    }
+    .header-btn a {
+        margin-right: 18px;
+    }
+}
+@media screen and (max-width: 992px) {}
+@media screen and (max-width: 768px) {
+    .header-btn {
+        margin-top: 12px;
+    }
+    h1{
+        font-size: 60px;
+    }
+    h2{
+        font-size: 50px;
+    }
+    .slider-title-bottom {
+        margin-bottom: 0px;
+    }
+    .service-title p{
+        font-size: 15px;
+    }
+}
+@media screen and (max-width: 1198px) {}
